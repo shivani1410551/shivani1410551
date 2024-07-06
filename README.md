@@ -1,7 +1,7 @@
 
 <img src="./banner.gif"  alt="welcome image" align="center"
 /></br>
-
+<div>
 
 
 <h1>💫 About Me:</h1>
@@ -11,13 +11,14 @@
  - 📌 Ask me about **html, css,sass, javascript, tailwind, Reactjs**-</br>
  -📲 How to reach me ** sushikim2050@gmail.com**
 </b>
-<p align="right">
-<img  src="./side-img.gif" />
-</p>
+ </div> </br></br>
+<img  src="./techfloat.gif" />
 
-## 🌐 Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onemama_1410) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivani charan)
+# 🌐 Socials:
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onemama_1410)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Shivani charan)
 
 # 💻 Tech Stack:
 
